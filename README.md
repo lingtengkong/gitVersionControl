@@ -1,7 +1,6 @@
 # Versioned Directory
 
-[ ![Travis Build Status](https://travis-ci.org/lingtengkong/gitVersionControl.svg?branch=master) ]
-(https://travis-ci.org/lingtengkong/gitVersionControl)
+[ ![Travis Build Status](https://travis-ci.org/lingtengkong/gitVersionControl.svg?branch=master) ](https://travis-ci.org/lingtengkong/gitVersionControl)
 
 # Hello World
 
